@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cherry-blossom.gif" width="700" alt="Pixel art cherry blossom branch">
+  <img src="cherry-blossom-v2.gif" width="700" alt="Pixel art cherry blossom branch">
 </p>
 
 # Hi, I'm Katerina 🌸
