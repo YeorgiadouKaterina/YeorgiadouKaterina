@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="cherry-blossom.gif" width="420" alt="Pixel art cherry blossom branch">
+</p>
 
-<!--
-**YeorgiadouKaterina/YeorgiadouKaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Katerina 🌸
 
-Here are some ideas to get you started:
+MSc student in Games Technology at ITU Copenhagen, exploring playful, game-feel interfaces on the web.
+I like building things with code and figuring out how they work (and why they break).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](#)
+
+## What I'm building here
+- 🎨 Creative front-end projects with interesting interfaces
+- 🧪 Experiments I'm trying out for the first time
+- 🎮 Game prototypes and playful web experiments
+
+## Tools I work with
+![](https://skillicons.dev/icons?i=unity,godot,blender,figma,ai,ps,cs)
+
+---
+
+*Currently learning and getting better one commit at a time ✨*
